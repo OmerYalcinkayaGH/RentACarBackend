@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\reservationstatusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\reservationstatusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\constract\\messages\\reservationstatusmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\constract\\messages\\reservationstatusmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\constract\\messages\\reservationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\constract\\messages\\reservationmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\constract\\messages\\rentalrecordmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\constract\\messages\\rentalrecordmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationStatusMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Constract\\Messages\\ReservationStatusMessages.cs",
+              "RelativeDocumentMoniker": "Business\\Constract\\Messages\\ReservationStatusMessages.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Constract\\Messages\\ReservationStatusMessages.cs",
+              "RelativeToolTip": "Business\\Constract\\Messages\\ReservationStatusMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:20:08.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationStatusManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationStatusManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ReservationStatusManager.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationStatusManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ReservationStatusManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:17:58.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Constract\\Messages\\ReservationMessages.cs",
+              "RelativeDocumentMoniker": "Business\\Constract\\Messages\\ReservationMessages.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Constract\\Messages\\ReservationMessages.cs",
+              "RelativeToolTip": "Business\\Constract\\Messages\\ReservationMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:12:49.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ReservationManager.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ReservationManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:11:40.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RentalRecordMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Constract\\Messages\\RentalRecordMessages.cs",
+              "RelativeDocumentMoniker": "Business\\Constract\\Messages\\RentalRecordMessages.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Constract\\Messages\\RentalRecordMessages.cs",
+              "RelativeToolTip": "Business\\Constract\\Messages\\RentalRecordMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:04:28.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\PaymentManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PaymentManager.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\PaymentManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PaymentManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T16:55:26.141Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
