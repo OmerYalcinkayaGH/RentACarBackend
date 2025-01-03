@@ -1,5 +1,7 @@
 ﻿using Business.Abstract;
 using Business.Constract.Messages;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -18,6 +20,7 @@ namespace Business.Concrete
         {
             _fuelTypeDal = fuelTypeDal;                
         }
+        [ValidationAspect(typeof(FuelTypeValidation))]
         public IResult Add(FuelType fuelType)
         {
             _fuelTypeDal.Add(fuelType);
@@ -39,7 +42,8 @@ namespace Business.Concrete
         {
             return new SuccessDataResult<FuelType>(FuelTypeMessages.GetByIdSuccess,_fuelTypeDal .Get(p=>p.FuelTypeId ==id));
         }
-
+       
+        [ValidationAspect(typeof(CustomerValidation))]
         public IResult Update(FuelType fuelType)
         {
             _fuelTypeDal.Update(fuelType);

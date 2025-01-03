@@ -1,5 +1,7 @@
 ﻿using Business.Abstract;
 using Business.Constract.Messages;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -18,7 +20,7 @@ namespace Business.Concrete
         {
             _transmissionTypeDal = transmissionTypeDal;
         }
-
+        [ValidationAspect(typeof(TransmissionTypeValidation))]
         public IResult Add(TransmissionType transmissionType)
         {
             _transmissionTypeDal.Add(transmissionType);
@@ -42,6 +44,7 @@ namespace Business.Concrete
                 _transmissionTypeDal.Get(p=>p.TransmissionTypeId ==id));
         }
 
+        [ValidationAspect(typeof(TransmissionTypeValidation))]
         public IResult Update(TransmissionType transmissionType)
         {
             _transmissionTypeDal.Update(transmissionType);

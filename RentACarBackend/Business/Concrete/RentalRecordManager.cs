@@ -1,9 +1,12 @@
 ﻿using Business.Abstract;
 using Business.Constract.Messages;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Entities;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Microsoft.AspNetCore.HttpLogging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,8 +18,10 @@ namespace Business.Concrete
 {
     public class RentalRecordManager : IRentalRecordService
     {
-        IRentalRecordDal _rentalRecorddal; 
+        IRentalRecordDal _rentalRecorddal;
 
+
+        [ValidationAspect(typeof(RentalRecordValidation))]
         public IResult Add(RentalRecord rentalRecord)
         {
             _rentalRecorddal.Add(rentalRecord);
@@ -29,6 +34,7 @@ namespace Business.Concrete
             return new SuccessResult(RentalRecordMessages.DeletedSuccess);
         }
 
+        [ValidationAspect(typeof(RentalRecordValidation))]
         public IResult Update(RentalRecord rentalRecord)
         {
             _rentalRecorddal.Add(rentalRecord);

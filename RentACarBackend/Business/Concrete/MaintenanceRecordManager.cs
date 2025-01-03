@@ -1,5 +1,7 @@
 ﻿using Business.Abstract;
 using Business.Constract.Messages;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -19,7 +21,7 @@ namespace Business.Concrete
         {
             _maintenanceRecord = maintenanceRecord;
         }
-
+        [ValidationAspect(typeof (MaintenanceRecordValidation))]
         public IResult Add(MaintenanceRecord maintenanceRecord)
         {
             _maintenanceRecord.Add(maintenanceRecord);
@@ -43,7 +45,7 @@ namespace Business.Concrete
             return new SuccessDataResult<MaintenanceRecord>(MaintenanceRecordMessages.GetByIdSuccess, 
               _maintenanceRecord.Get(p=>p.CardId ==id));
         }
-
+        [ValidationAspect (typeof(MaintenanceRecordValidation))]
         public IResult Update(MaintenanceRecord maintanenceRecord)
         {
             _maintenanceRecord.Update(maintanenceRecord);

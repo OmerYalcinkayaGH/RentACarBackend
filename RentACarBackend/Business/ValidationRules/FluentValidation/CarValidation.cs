@@ -26,8 +26,10 @@ namespace Business.ValidationRules.FluentValidation
             RuleFor(p => p.TransmissionTypeId).NotEmpty();
             RuleFor(p => p.Mileage).NotEmpty();
             RuleFor(p => p.StatusId).NotEmpty();
+            RuleFor(p => p.StatusId).Must(value => value >= 0);
             RuleFor(p => p.BranchId).NotEmpty();
-           
+            RuleFor(p => p.BranchId).GreaterThanOrEqualTo(0);
+
 
         }
 

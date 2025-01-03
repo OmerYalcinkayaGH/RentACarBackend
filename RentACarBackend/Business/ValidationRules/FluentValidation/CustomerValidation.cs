@@ -20,7 +20,9 @@ namespace Business.ValidationRules.FluentValidation
             RuleFor(p => p.Email).Matches(@"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$");
             RuleFor(p => p.PhoneNumber).Matches(@"^\+?[1-9]\d{1,3}[-.\s]?\(?\d{1,4}\)?[-.\s]?\d{1,4}[-.\s]?\d{1,9}$");
             RuleFor(p => p.CityId).NotEmpty();
+            RuleFor(p => p.CityId).GreaterThanOrEqualTo(0);
             RuleFor(p => p.CountryId).NotEmpty();
+            RuleFor(p => p.CountryId).GreaterThanOrEqualTo(0);
             RuleFor(p => p.DriverLicenseNumber).NotEmpty();
             RuleFor(p => p.DriverLicenseNumber).Matches(@"^[A-Z0-9]{5,20}$");
             RuleFor(p => p.DateOfBirth).NotEmpty();

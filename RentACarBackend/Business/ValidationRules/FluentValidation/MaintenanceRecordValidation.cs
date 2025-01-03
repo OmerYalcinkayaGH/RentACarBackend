@@ -12,7 +12,14 @@ namespace Business.ValidationRules.FluentValidation
     {
         public MaintenanceRecordValidation()
         {
-                
+            RuleFor(p=>p.CardId).NotEmpty();
+            RuleFor(p => p.CardId).GreaterThanOrEqualTo(0);
+            RuleFor(p => p.StartDate).NotEmpty();
+            RuleFor (p=>p.EndDate ).NotEmpty();
+            RuleFor(p => p.Description).NotEmpty();
+            RuleFor(p => p.Description).MaximumLength(500);
+            RuleFor(p => p.Cost).NotEmpty();
+            RuleFor(p => p.Cost).GreaterThanOrEqualTo(0);
         }
     }
 }

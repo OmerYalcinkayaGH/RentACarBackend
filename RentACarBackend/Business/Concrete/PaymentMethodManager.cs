@@ -1,4 +1,6 @@
 ﻿using Business.Abstract;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using Entities.Concrete;
 using System;
@@ -11,6 +13,7 @@ namespace Business.Concrete
 {
     public class PaymentMethodManager : IPaymentMethodService
     {
+        [ValidationAspect(typeof(PaymentMethodValidation))]
         public IResult Add(PaymentMethod paymentMethod)
         {
             throw new NotImplementedException();
@@ -31,6 +34,8 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
+
+        [ValidationAspect(typeof(PaymentValidation))]
         public IResult Update(PaymentMethod paymentMethod)
         {
             throw new NotImplementedException();

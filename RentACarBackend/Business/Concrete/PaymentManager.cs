@@ -1,5 +1,7 @@
 ﻿using Business.Abstract;
 using Business.Constract.Messages;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
@@ -20,6 +22,7 @@ namespace Business.Concrete
             _paymentDal = paymentDal;
         }
 
+        [ValidationAspect(typeof(PaymentValidation))]
         public IResult Add(Payment payment)
         {
             _paymentDal.Add(payment);
@@ -43,6 +46,7 @@ namespace Business.Concrete
             return new SuccessDataResult<Payment>(PaymentMessages.GetByIdSuccess , _paymentDal.Get(p=>p.PaymentId==id));
         }
 
+        [ValidationAspect (typeof(PaymentValidation))]
         public IResult Update(Payment payment)
         {
             _paymentDal.Update(payment);

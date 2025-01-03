@@ -1,5 +1,7 @@
 ﻿using Business.Abstract;
 using Business.Constract.Messages;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -20,6 +22,7 @@ namespace Business.Concrete
             _reservationStatusDal = reservationStatusDal;
         }
 
+        [ValidationAspect(typeof(ReservationSatutusValidation))]
         public IResult Add(ReservationStatu reservationStatu)
         {
            _reservationStatusDal .Add(reservationStatu);
@@ -41,7 +44,7 @@ namespace Business.Concrete
         {
             return new SuccessDataResult<List<ReservationStatu>>(ReservationMessages.ListedSuccess, _reservationStatusDal .GetAll ());
         }
-
+        [ValidationAspect(typeof(ReservationSatutusValidation))]
         public IResult Update(ReservationStatu reservationStatu)
         {
             _reservationStatusDal.Update(reservationStatu);

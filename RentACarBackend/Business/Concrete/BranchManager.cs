@@ -1,5 +1,7 @@
 ﻿using Business.Abstract;
 using Business.Constract.Messages;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -19,6 +21,8 @@ namespace Business.Concrete
         {
             _branchDal = branchDal;
         }
+
+        [ValidationAspect(typeof(BranchValidation))]
         public IResult Add(Branch branc)
         {
             _branchDal.Add(branc);
@@ -41,6 +45,7 @@ namespace Business.Concrete
             return new SuccessDataResult<Branch>(BranchMessages.GetByIdSuccess, _branchDal.Get(p => p.BranchId == id));
         }
 
+        [ValidationAspect(typeof(BranchValidation))]
         public IResult Update(Branch branch)
         {
             _branchDal.Update(branch);
