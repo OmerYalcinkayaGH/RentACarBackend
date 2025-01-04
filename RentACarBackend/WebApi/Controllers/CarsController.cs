@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Business.Abstract;
+using Entities.Concrete;
+using Entities.DTOs;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApi.Controllers
@@ -7,5 +10,18 @@ namespace WebApi.Controllers
     [ApiController]
     public class CarsController : ControllerBase
     {
+        ICarService _carService;
+        public CarsController(ICarService carService)
+        {
+            _carService = carService;
+        }
+        [HttpGet("GetAll")]
+        public IActionResult GetAll()
+        {
+            var result = _carService.GetCarDetails();
+            if (result.Success) return Ok(result);
+            return BadRequest(result);
+        }
+      
     }
 }
