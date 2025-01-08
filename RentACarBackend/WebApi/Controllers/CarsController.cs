@@ -22,6 +22,33 @@ namespace WebApi.Controllers
             if (result.Success) return Ok(result);
             return BadRequest(result);
         }
-      
+        [HttpPost("Add")]
+        public IActionResult Add(Car car)
+        {
+            var result = _carService.Add(car);
+            if (result.Success) return Ok(result);
+            return BadRequest(result.Message);         
+        }
+        [HttpPost ("Update")]
+        public IActionResult Update(Car car)
+        {
+            var result = _carService.Update(car);
+            if (result.Success) return Ok(result);
+            return BadRequest(result.Message);
+        }
+        [HttpPost ("Delete")]
+        public IActionResult Delete(Car car)
+        {
+            var result = _carService.Delete(car);
+            if (result.Success) return Ok(result);
+            return BadRequest(result.Message);
+        }
+        [HttpGet("GetById")]
+        public IActionResult GetById(int id)
+        {
+            var result = _carService.GetById(id) ;
+            if (result.Success) return Ok(result);
+            return BadRequest(result);
+        }
     }
 }

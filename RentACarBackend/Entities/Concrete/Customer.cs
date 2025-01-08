@@ -11,6 +11,7 @@ namespace Entities.Concrete
         public string PhoneNumber { get; set; }
         public int CityId { get; set; }
         public int CountryId { get; set; }
+        public int UserId { get; set; }
         public string DriverLicenseNumber { get; set; }
         public DateTime DateOfBirth { get; set; }
     }
