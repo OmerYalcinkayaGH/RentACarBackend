@@ -83,3 +83,4 @@ C:\Users\Adminbey\Desktop\RentACarProject\RentACarBackend\WebApi\obj\Debug\net8.
 C:\Users\Adminbey\Desktop\RentACarProject\RentACarBackend\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\Users\Adminbey\Desktop\RentACarProject\RentACarBackend\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\Users\Adminbey\Desktop\RentACarProject\RentACarBackend\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Adminbey\Desktop\RentACarProject\RentACarBackend\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs

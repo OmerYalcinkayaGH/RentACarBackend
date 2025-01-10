@@ -1194,6 +1194,7 @@
         "dependencies": {
           "Autofac": "8.2.0",
           "Autofac.Extensions.DependencyInjection": "8.0.0",
+          "Autofac.Extras.DynamicProxy": "7.1.0",
           "Core": "1.0.0",
           "DataAccess": "1.0.0",
           "Entities": "1.0.0",

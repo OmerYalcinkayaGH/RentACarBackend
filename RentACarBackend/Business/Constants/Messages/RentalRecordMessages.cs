@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Business.Constract.Messages
+namespace Business.Constants.Messages
 {
+
     public static class RentalRecordMessages
     {
         public static string AddedSuccess = "Kiralama işlemi başarı ile eklendi.";

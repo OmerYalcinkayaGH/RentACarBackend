@@ -1,5 +1,5 @@
 ﻿using Business.Abstract;
-using Business.Constract.Messages;
+using Business.Constants.Messages;
 using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac.Validation;
 using Core.Entities;

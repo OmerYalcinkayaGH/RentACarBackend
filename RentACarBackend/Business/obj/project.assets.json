@@ -3035,6 +3035,7 @@
     "net8.0": [
       "Autofac >= 8.2.0",
       "Autofac.Extensions.DependencyInjection >= 8.0.0",
+      "Autofac.Extras.DynamicProxy >= 7.1.0",
       "Core >= 1.0.0",
       "DataAccess >= 1.0.0",
       "Entities >= 1.0.0",
@@ -3103,6 +3104,10 @@
           "Autofac.Extensions.DependencyInjection": {
             "target": "Package",
             "version": "[8.0.0, )"
+          },
+          "Autofac.Extras.DynamicProxy": {
+            "target": "Package",
+            "version": "[7.1.0, )"
           },
           "FluentValidation.AspNetCore": {
             "target": "Package",

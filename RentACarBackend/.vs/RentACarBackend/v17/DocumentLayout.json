@@ -3,90 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8BE4628-5ADF-4286-905F-8DAD2EE5461B}|Entities\\Entities.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\entities\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8BE4628-5ADF-4286-905F-8DAD2EE5461B}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8BE4628-5ADF-4286-905F-8DAD2EE5461B}|Entities\\Entities.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\entities\\concrete\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8BE4628-5ADF-4286-905F-8DAD2EE5461B}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316BCD25-6C56-435E-BA3C-3825941A0AF4}|WebApi\\WebApi.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316BCD25-6C56-435E-BA3C-3825941A0AF4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316BCD25-6C56-435E-BA3C-3825941A0AF4}|WebApi\\WebApi.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\webapi\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316BCD25-6C56-435E-BA3C-3825941A0AF4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316BCD25-6C56-435E-BA3C-3825941A0AF4}|WebApi\\WebApi.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316BCD25-6C56-435E-BA3C-3825941A0AF4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\utilities\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\extension\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\extension\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\extension\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\extension\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\entities\\concrete\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316BCD25-6C56-435E-BA3C-3825941A0AF4}|WebApi\\WebApi.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{316BCD25-6C56-435E-BA3C-3825941A0AF4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\utilities\\interceptors\\methodinterceptionbaseattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\methodinterceptionbaseattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\abstract\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\abstract\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316BCD25-6C56-435E-BA3C-3825941A0AF4}|WebApi\\WebApi.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{316BCD25-6C56-435E-BA3C-3825941A0AF4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\transmissiontypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\transmissiontypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -135,8 +51,8 @@
       "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\branchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\abstract\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\abstract\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\utilities\\ioc\\servicetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|solutionrelative:core\\utilities\\ioc\\servicetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,425 +62,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Entities\\Concrete\\Customer.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Customer.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Entities\\Concrete\\Customer.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:50:30.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Entities\\Concrete\\Branch.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Branch.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Entities\\Concrete\\Branch.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Branch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:49:55.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\WebApi\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\WebApi\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\CustomersController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowBEAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:46:04.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BranchesController.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\WebApi\\Controllers\\BranchesController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\BranchesController.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\WebApi\\Controllers\\BranchesController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\BranchesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:36:01.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AccessToken.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Security\\JWT\\AccessToken.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\AccessToken.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Security\\JWT\\AccessToken.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\AccessToken.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:38:34.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ITokenHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:38:46.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:38:55.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TokenOptions.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:39:10.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Entities\\Concrete\\User.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\User.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Entities\\Concrete\\User.cs",
-              "RelativeToolTip": "Core\\Entities\\Concrete\\User.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA4wAoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:45:11.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarsController.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\WebApi\\Controllers\\CarsController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\CarsController.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\WebApi\\Controllers\\CarsController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\CarsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T19:49:16.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ClaimExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Extension\\ClaimExtensions.cs",
-              "RelativeDocumentMoniker": "Core\\Extension\\ClaimExtensions.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Extension\\ClaimExtensions.cs",
-              "RelativeToolTip": "Core\\Extension\\ClaimExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:44:26.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClaimsPrincipalExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Extension\\ClaimsPrincipalExtensions.cs",
-              "RelativeDocumentMoniker": "Core\\Extension\\ClaimsPrincipalExtensions.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Extension\\ClaimsPrincipalExtensions.cs",
-              "RelativeToolTip": "Core\\Extension\\ClaimsPrincipalExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:44:31.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OperationClaim.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Entities\\Concrete\\OperationClaim.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\OperationClaim.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Entities\\Concrete\\OperationClaim.cs",
-              "RelativeToolTip": "Core\\Entities\\Concrete\\OperationClaim.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:45:35.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-07T19:22:50.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MethodInterceptionBaseAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
-              "RelativeToolTip": "Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T19:15:47.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MethodInterception.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "RelativeToolTip": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T19:15:46.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AspectInterceptorSelector.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "RelativeToolTip": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T19:15:45.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BusinessRules.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Business\\BusinessRules.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Business\\BusinessRules.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\Business\\BusinessRules.cs",
-              "RelativeToolTip": "Core\\Utilities\\Business\\BusinessRules.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T19:15:32.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AutofacBusinessModule.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAiwD4AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T19:11:21.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ICarService.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Abstract\\ICarService.cs",
-              "RelativeDocumentMoniker": "Business\\Abstract\\ICarService.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Abstract\\ICarService.cs",
-              "RelativeToolTip": "Business\\Abstract\\ICarService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T19:49:38.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "WebApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\WebApi\\WebApi.csproj",
-              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\WebApi\\WebApi.csproj",
-              "RelativeToolTip": "WebApi\\WebApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-03T19:48:59.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "TransmissionTypeManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\TransmissionTypeManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\TransmissionTypeManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\TransmissionTypeManager.cs",
               "RelativeToolTip": "Business\\Concrete\\TransmissionTypeManager.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAA9wDYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:31:23.499Z"
+              "WhenOpened": "2025-01-10T20:57:07.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 1,
               "Title": "ReservationStatusManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationStatusManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\ReservationStatusManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationStatusManager.cs",
               "RelativeToolTip": "Business\\Concrete\\ReservationStatusManager.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwC4AAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:29:10.444Z"
+              "WhenOpened": "2025-01-10T20:57:01.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 2,
               "Title": "ReservationManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\ReservationManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationManager.cs",
               "RelativeToolTip": "Business\\Concrete\\ReservationManager.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowDAAAABJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:27:54.027Z"
+              "WhenOpened": "2025-01-10T20:56:56.124Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 3,
               "Title": "RentalRecordManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\RentalRecordManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\RentalRecordManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\RentalRecordManager.cs",
               "RelativeToolTip": "Business\\Concrete\\RentalRecordManager.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:26:42.405Z"
+              "WhenOpened": "2025-01-10T20:56:46.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 4,
               "Title": "PaymentMethodManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\PaymentMethodManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\PaymentMethodManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\PaymentMethodManager.cs",
               "RelativeToolTip": "Business\\Concrete\\PaymentMethodManager.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA1wCUAAAA1AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:25:37.9Z"
+              "WhenOpened": "2025-01-10T20:56:39.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 5,
               "Title": "PaymentManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\PaymentManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\PaymentManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\PaymentManager.cs",
               "RelativeToolTip": "Business\\Concrete\\PaymentManager.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDMAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:24:11.873Z"
+              "WhenOpened": "2025-01-10T20:56:33.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 6,
               "Title": "MaintenanceRecordManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\MaintenanceRecordManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\MaintenanceRecordManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\MaintenanceRecordManager.cs",
               "RelativeToolTip": "Business\\Concrete\\MaintenanceRecordManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:22:25.777Z"
+              "WhenOpened": "2025-01-10T20:56:26.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 7,
               "Title": "FuelTypeManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\FuelTypeManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\FuelTypeManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\FuelTypeManager.cs",
               "RelativeToolTip": "Business\\Concrete\\FuelTypeManager.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:21:33.293Z"
+              "WhenOpened": "2025-01-10T20:56:19.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 8,
               "Title": "CustomerManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CustomerManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\CustomerManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CustomerManager.cs",
               "RelativeToolTip": "Business\\Concrete\\CustomerManager.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwC4AAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:21:07.965Z"
+              "WhenOpened": "2025-01-10T20:56:12.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 9,
               "Title": "CarStatusManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CarStatusManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\CarStatusManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CarStatusManager.cs",
               "RelativeToolTip": "Business\\Concrete\\CarStatusManager.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowCsAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:20:47.447Z"
+              "WhenOpened": "2025-01-10T20:56:01.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 10,
               "Title": "CarManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CarManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\CarManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CarManager.cs",
               "RelativeToolTip": "Business\\Concrete\\CarManager.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDcAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:20:22.549Z"
+              "WhenOpened": "2025-01-10T20:55:48.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 11,
               "Title": "BranchManager.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\BranchManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\BranchManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\BranchManager.cs",
               "RelativeToolTip": "Business\\Concrete\\BranchManager.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:19:44.485Z"
+              "WhenOpened": "2025-01-10T20:55:38.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "IBranchService.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Abstract\\IBranchService.cs",
-              "RelativeDocumentMoniker": "Business\\Abstract\\IBranchService.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Abstract\\IBranchService.cs",
-              "RelativeToolTip": "Business\\Abstract\\IBranchService.cs",
+              "DocumentIndex": 12,
+              "Title": "ServiceTool.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\IOC\\ServiceTool.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\IOC\\ServiceTool.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\IOC\\ServiceTool.cs",
+              "RelativeToolTip": "Core\\Utilities\\IOC\\ServiceTool.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:19:40.102Z"
+              "WhenOpened": "2025-01-10T20:55:29.089Z",
+              "EditorCaption": ""
             }
           ]
         }
