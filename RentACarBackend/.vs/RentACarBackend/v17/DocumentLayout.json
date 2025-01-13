@@ -27,28 +27,36 @@
       "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\maintenancerecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\maintenancerecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\fueltypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\fueltypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\maintenancerecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\maintenancerecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\carstatusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\carstatusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\branchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\branchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\branchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\branchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\concrete\\carstatusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\concrete\\carstatusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\constants\\messages\\customermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\constants\\messages\\customermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\business\\constants\\messages\\fueltypemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AD1512-9B5B-4F85-BDDA-418259E61AEB}|Business\\Business.csproj|solutionrelative:business\\constants\\messages\\fueltypemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D0D03A7-7B24-4706-880D-B607AAC1E205}|Core\\Core.csproj|c:\\users\\adminbey\\desktop\\rentacarproject\\rentacarbackend\\core\\utilities\\ioc\\servicetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,32 +70,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TransmissionTypeManager.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\TransmissionTypeManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\TransmissionTypeManager.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\TransmissionTypeManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\TransmissionTypeManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "DocumentIndex": 3,
+              "Title": "RentalRecordManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\RentalRecordManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\RentalRecordManager.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\RentalRecordManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\RentalRecordManager.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:57:07.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReservationStatusManager.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationStatusManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\ReservationStatusManager.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationStatusManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\ReservationStatusManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:57:01.317Z",
+              "WhenOpened": "2025-01-10T20:56:46.109Z",
               "EditorCaption": ""
             },
             {
@@ -98,22 +93,35 @@
               "RelativeDocumentMoniker": "Business\\Concrete\\ReservationManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationManager.cs",
               "RelativeToolTip": "Business\\Concrete\\ReservationManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T20:56:56.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RentalRecordManager.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\RentalRecordManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\RentalRecordManager.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\RentalRecordManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\RentalRecordManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "DocumentIndex": 1,
+              "Title": "ReservationStatusManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationStatusManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ReservationStatusManager.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\ReservationStatusManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ReservationStatusManager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:46.109Z",
+              "WhenOpened": "2025-01-10T20:57:01.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransmissionTypeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\TransmissionTypeManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\TransmissionTypeManager.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\TransmissionTypeManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\TransmissionTypeManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:57:07.329Z",
               "EditorCaption": ""
             },
             {
@@ -124,7 +132,7 @@
               "RelativeDocumentMoniker": "Business\\Concrete\\PaymentMethodManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\PaymentMethodManager.cs",
               "RelativeToolTip": "Business\\Concrete\\PaymentMethodManager.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T20:56:39.675Z",
               "EditorCaption": ""
@@ -137,7 +145,7 @@
               "RelativeDocumentMoniker": "Business\\Concrete\\PaymentManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\PaymentManager.cs",
               "RelativeToolTip": "Business\\Concrete\\PaymentManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T20:56:33.408Z",
               "EditorCaption": ""
@@ -145,14 +153,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MaintenanceRecordManager.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\MaintenanceRecordManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\MaintenanceRecordManager.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\MaintenanceRecordManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\MaintenanceRecordManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CustomerManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CustomerManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:26.58Z",
+              "WhenOpened": "2025-01-10T20:56:12.232Z",
               "EditorCaption": ""
             },
             {
@@ -163,7 +171,7 @@
               "RelativeDocumentMoniker": "Business\\Concrete\\FuelTypeManager.cs",
               "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\FuelTypeManager.cs",
               "RelativeToolTip": "Business\\Concrete\\FuelTypeManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T20:56:19.564Z",
               "EditorCaption": ""
@@ -171,27 +179,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CustomerManager.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CustomerManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\CustomerManager.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CustomerManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\CustomerManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Title": "MaintenanceRecordManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\MaintenanceRecordManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\MaintenanceRecordManager.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\MaintenanceRecordManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\MaintenanceRecordManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:12.232Z",
+              "WhenOpened": "2025-01-10T20:56:26.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CarStatusManager.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CarStatusManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\CarStatusManager.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CarStatusManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\CarStatusManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Title": "BranchManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\BranchManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\BranchManager.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\BranchManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\BranchManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowBIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:01.74Z",
+              "WhenOpened": "2025-01-10T20:55:38.702Z",
               "EditorCaption": ""
             },
             {
@@ -210,19 +218,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "BranchManager.cs",
-              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\BranchManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\BranchManager.cs",
-              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\BranchManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\BranchManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Title": "CarStatusManager.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CarStatusManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CarStatusManager.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Concrete\\CarStatusManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CarStatusManager.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwAEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:55:38.702Z",
+              "WhenOpened": "2025-01-10T20:56:01.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "CustomerMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Constants\\Messages\\CustomerMessages.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\Messages\\CustomerMessages.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Constants\\Messages\\CustomerMessages.cs",
+              "RelativeToolTip": "Business\\Constants\\Messages\\CustomerMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:37:24.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FuelTypeMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Constants\\Messages\\FuelTypeMessages.cs",
+              "RelativeDocumentMoniker": "Business\\Constants\\Messages\\FuelTypeMessages.cs",
+              "ToolTip": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Business\\Constants\\Messages\\FuelTypeMessages.cs",
+              "RelativeToolTip": "Business\\Constants\\Messages\\FuelTypeMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:39:46.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ServiceTool.cs",
               "DocumentMoniker": "C:\\Users\\Adminbey\\Desktop\\RentACarProject\\RentACarBackend\\Core\\Utilities\\IOC\\ServiceTool.cs",
               "RelativeDocumentMoniker": "Core\\Utilities\\IOC\\ServiceTool.cs",
@@ -230,8 +264,7 @@
               "RelativeToolTip": "Core\\Utilities\\IOC\\ServiceTool.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:55:29.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:55:29.089Z"
             }
           ]
         }

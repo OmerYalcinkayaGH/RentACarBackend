@@ -1,7 +1,9 @@
 ﻿using Business.Abstract;
+using Business.Constants.Messages;
 using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
+using DataAccess.Abstract;
 using Entities.Concrete;
 using System;
 using System.Collections.Generic;
@@ -13,32 +15,43 @@ namespace Business.Concrete
 {
     public class PaymentMethodManager : IPaymentMethodService
     {
+        IPaymentMethodDal  _paymentMethodDal;
+
+        public PaymentMethodManager(IPaymentMethodDal paymentMethodDal)
+        {
+            _paymentMethodDal = paymentMethodDal;
+        }
+
         [ValidationAspect(typeof(PaymentMethodValidation))]
         public IResult Add(PaymentMethod paymentMethod)
         {
-            throw new NotImplementedException();
+            _paymentMethodDal.Add(paymentMethod);
+            return new SuccessResult(PaymentMethodMessages .AddedSuccess);
         }
 
         public IResult Delete(PaymentMethod paymentMethod)
         {
-            throw new NotImplementedException();
+            _paymentMethodDal.Delete(paymentMethod);
+            return new SuccessResult(PaymentMethodMessages.DeletedSuccess);
         }
 
         public IDataResult<List<PaymentMethod>> GetAll()
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<List<PaymentMethod>>(PaymentMethodMessages.ListedSuccess, _paymentMethodDal.GetAll());
+
         }
 
         public IDataResult<PaymentMethod> GetById(int id)
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<PaymentMethod>(PaymentMethodMessages.GetByIdSuccess,_paymentMethodDal.Get (p=>p.PaymentMethodId==id));
         }
 
 
         [ValidationAspect(typeof(PaymentValidation))]
         public IResult Update(PaymentMethod paymentMethod)
         {
-            throw new NotImplementedException();
+            _paymentMethodDal.Update(paymentMethod);
+            return new SuccessResult(PaymentMethodMessages.AddedSuccess);
         }
     }
 }
