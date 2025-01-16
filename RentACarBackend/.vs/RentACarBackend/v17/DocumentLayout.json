@@ -82,8 +82,7 @@
               "RelativeToolTip": "Business\\Concrete\\RentalRecordManager.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAgwAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:46.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:56:46.109Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "Business\\Concrete\\ReservationManager.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAwwAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:56.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:56:56.124Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "Business\\Concrete\\ReservationStatusManager.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAIwAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:57:01.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:57:01.317Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "Business\\Concrete\\PaymentMethodManager.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwCwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:39.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:56:39.675Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "Business\\Concrete\\PaymentManager.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:33.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:56:33.408Z"
             },
             {
               "$type": "Document",
@@ -160,8 +155,7 @@
               "RelativeToolTip": "Business\\Concrete\\CustomerManager.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAQwC4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:12.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:56:12.232Z"
             },
             {
               "$type": "Document",
@@ -173,8 +167,7 @@
               "RelativeToolTip": "Business\\Concrete\\FuelTypeManager.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:19.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:56:19.564Z"
             },
             {
               "$type": "Document",
@@ -186,8 +179,7 @@
               "RelativeToolTip": "Business\\Concrete\\MaintenanceRecordManager.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAQwAEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:26.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:56:26.58Z"
             },
             {
               "$type": "Document",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "Business\\Concrete\\BranchManager.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAowBIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:55:38.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:55:38.702Z"
             },
             {
               "$type": "Document",
@@ -212,8 +203,7 @@
               "RelativeToolTip": "Business\\Concrete\\CarManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:55:48.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:55:48.557Z"
             },
             {
               "$type": "Document",
@@ -225,8 +215,7 @@
               "RelativeToolTip": "Business\\Concrete\\CarStatusManager.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAIwAEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T20:56:01.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T20:56:01.74Z"
             },
             {
               "$type": "Document",
@@ -238,8 +227,7 @@
               "RelativeToolTip": "Business\\Constants\\Messages\\CustomerMessages.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T18:37:24.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T18:37:24.656Z"
             },
             {
               "$type": "Document",
@@ -251,8 +239,7 @@
               "RelativeToolTip": "Business\\Constants\\Messages\\FuelTypeMessages.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T18:39:46.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T18:39:46.004Z"
             },
             {
               "$type": "Document",
