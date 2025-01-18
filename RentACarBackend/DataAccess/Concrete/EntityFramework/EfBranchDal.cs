@@ -4,7 +4,7 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfBranchDal:EntityRepositoryBase<Branch,RentACarContext>,IBranchDal
+    public class EfBranchDal:EfEntityRepositoryBase<Branch,RentACarContext>,IBranchDal
     {
 
     }

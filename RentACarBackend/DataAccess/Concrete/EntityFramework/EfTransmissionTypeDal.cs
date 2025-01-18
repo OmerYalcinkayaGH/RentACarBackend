@@ -3,7 +3,7 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfTransmissionTypeDal : EntityRepositoryBase<TransmissionType, RentACarContext>
+    public class EfTransmissionTypeDal : EfEntityRepositoryBase<TransmissionType, RentACarContext>
     {
 
     }

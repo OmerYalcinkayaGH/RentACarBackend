@@ -10,12 +10,12 @@ namespace Core.Utilities.Results
     {
         public DataResult(bool success, string message,T data) : base(success, message)
         {
-            Date = data;
+            Data = data;
         }
         public DataResult(bool success, T data) : base(success)
         {
-            Date = data;
+            Data = data;
         }
-        public T Date { get; }
+        public T Data { get; }
     }
 }

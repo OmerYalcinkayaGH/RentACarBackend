@@ -8,6 +8,6 @@ namespace Core.Utilities.Results
 {
     public interface IDataResult<T>:IResult 
     {
-        public T Date { get;}
+        public T Data { get;}
     }
 }

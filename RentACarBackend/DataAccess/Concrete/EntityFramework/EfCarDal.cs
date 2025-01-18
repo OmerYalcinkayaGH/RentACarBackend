@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfCarDal : EntityRepositoryBase<Car, RentACarContext>, ICarDal
+    public class EfCarDal : EfEntityRepositoryBase<Car, RentACarContext>, ICarDal
     {
         public List<CarDetailDto> GetCarDetail()
         {

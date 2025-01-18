@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfReservationDal : EntityRepositoryBase<Reservation, RentACarContext>
+    public class EfReservationDal : EfEntityRepositoryBase<Reservation, RentACarContext>
     {
 
     }

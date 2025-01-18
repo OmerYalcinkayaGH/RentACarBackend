@@ -3,7 +3,7 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfMaintenanceRecordDal:EntityRepositoryBase<MaintenanceRecord,RentACarContext>
+    public class EfMaintenanceRecordDal:EfEntityRepositoryBase<MaintenanceRecord,RentACarContext>
     {
 
     }

@@ -4,7 +4,7 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfCarStatusDal:EntityRepositoryBase<CarStatus,RentACarContext>,ICarStutusDal
+    public class EfCarStatusDal:EfEntityRepositoryBase<CarStatus,RentACarContext>,ICarStutusDal
     {
 
     }

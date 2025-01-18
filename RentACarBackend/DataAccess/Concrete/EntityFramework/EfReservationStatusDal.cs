@@ -3,7 +3,7 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfReservationStatusDal : EntityRepositoryBase<ReservationStatu, RentACarContext>
+    public class EfReservationStatusDal : EfEntityRepositoryBase<ReservationStatu, RentACarContext>
     {
 
     }

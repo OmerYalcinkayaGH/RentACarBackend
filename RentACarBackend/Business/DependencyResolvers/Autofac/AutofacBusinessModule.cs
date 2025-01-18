@@ -10,7 +10,9 @@ using Business.Abstract;
 using Business.Concrete;
 using Castle.DynamicProxy;
 using Core.Utilities.Interceptors;
+using Core.Utilities.Security.JWT;
 using DataAccess.Abstract;
+using DataAccess.Concrete.Entityframework;
 using DataAccess.Concrete.EntityFramework;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Module = Autofac.Module;
@@ -56,6 +58,12 @@ namespace Business.DependencyResolvers.Autofac
 
             builder.RegisterType<TransmissionTypeManager>().As<ITransmissionTypeService>().SingleInstance();
             builder.RegisterType<EfTransmissionTypeDal>().As<ITransmissionTypeDal>().SingleInstance();
+
+            builder.RegisterType<AuthManager>().As<IAuthService>().SingleInstance();
+            builder.RegisterType<UserManager>().As<IUserService>().SingleInstance();
+            builder.RegisterType<EfUserDal>().As<IUserDal>().SingleInstance();
+            builder.RegisterType<JwtHelper>().As<ITokenHelper>();
+
             var assembly = System.Reflection.Assembly.GetExecutingAssembly();
             builder.RegisterAssemblyTypes(assembly).AsImplementedInterfaces()
                 .EnableInterfaceInterceptors(new ProxyGenerationOptions()

@@ -3,5 +3,5 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfFuelTypeDal:EntityRepositoryBase<FuelType,RentACarContext> { }
+    public class EfFuelTypeDal:EfEntityRepositoryBase<FuelType,RentACarContext> { }
 }
